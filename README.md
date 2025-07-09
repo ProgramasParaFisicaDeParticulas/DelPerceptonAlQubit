@@ -10,9 +10,15 @@ REDES NEURONALES CLÁSICAS
 3. Redes generativas clásicas
 
 REDES NEURONALES CUÁNTICAS
+
 4. Circuitos cuánticos parametrizados
+
 5. Clasificación con modelos cuánticos
+
+
 6. Redes generativas cuánticas
 
 MODELOS HÍBRIDOS
+
+
 7. Modelos híbridos clásicos y cuánticos
